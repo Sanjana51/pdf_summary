@@ -1,0 +1,34 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual Environment
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+*.pkl
+*.bin
+*.pt
+
+# Large data files
+data/
+*.csv
+*.xlsx
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Misc
+*.DS_Store
+*.swp
